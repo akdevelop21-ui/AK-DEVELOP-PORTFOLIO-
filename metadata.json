@@ -1,0 +1,8 @@
+{
+  "name": "AK DEVELOP ™ Portfolio",
+  "description": "Futuristic cyberpunk portfolio website for AK DEVELOP ™, a web and bot developer from Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
